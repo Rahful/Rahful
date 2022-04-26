@@ -39,7 +39,7 @@
 
 <p align="center">
     <a href="https://github.com/Rahful/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahful Hasan Shawon's streak" src="httpshttps://github-readme-streak-stats.herokuapp.com?user=Rahful&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahful Hasan Shawon's streak" src="https://github-readme-streak-stats.herokuapp.com?user=Rahful&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
 </p>
 
