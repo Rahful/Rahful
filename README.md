@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Netwoking System Setup.**
 
-- 🌱 I’m currently Graduate From Bsc in Computer Science engineering From **AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH**
+- 🌱 I’m currently Graduate From Bsc in Computer Science engineering From **[AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH](https://www.aiub.edu/)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
