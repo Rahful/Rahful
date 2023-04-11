@@ -60,7 +60,16 @@
 
 <br/>
 <br/>
+## Current Stats
+<div align="center" >
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rahful&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rahful&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahful&theme=github_dark&utcOffset=8" width="32.5%">
+</div>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rahful&theme=github_dark" width="98%">
+</div>
 ## Connect with me:
 
 <p align="left">
