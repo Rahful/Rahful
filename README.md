@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Genex Infosys LTD.](https://www.genexinfosys.com/)**
+- 🔭 I’m currently working on **[Bangla Trac Communications limited.](https://btraccl.com/)**
 
-- 🌱 I’m currently learning **Web Developing.**
+- 🌱 I’m currently learning **Networking.**
 
 - 🏢 I’m currently Graduate From Bsc in Computer Science engineering From **[AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH](https://www.aiub.edu/)**
 
